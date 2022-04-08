@@ -7,5 +7,9 @@ footer {
     font-size: 12px;
     bottom: 0;
     margin-left: 20px;
+    position: fixed;
 }
 
+.content {
+    min-height: 100vh;
+}
